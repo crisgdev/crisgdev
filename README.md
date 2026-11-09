@@ -15,17 +15,30 @@ Estudiante de Ingeniería de Sistemas e Informática, apasionado por la programa
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías conocidas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,git,github,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,spring,mysql,supabase,git,github,vscode,anaconda,postman,windows" />
   </a>
 </p>
 
-- **Lenguajes:** Python, Java, SQL
-- **Herramientas & Entorno:** Git, GitHub, Jupyter Notebook
-- **Áreas de enfoque:** Desarrollo Backend, Bases de Datos Relacionales, Fundamentos de Machine Learning
+- Python
+- Java
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- React
+- Spring Boot
+- MySQL
+- Supabase
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
+- Windows
 
 ---
 
@@ -33,13 +46,16 @@ Estudiante de Ingeniería de Sistemas e Informática, apasionado por la programa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql,sklearn" />
+    <img src="https://skillicons.dev/icons?i=sklearn,anaconda,ubuntu,fastapi,spring,docker" />
   </a>
 </p>
 
-- Desarrollo de APIs REST.
-- Consulta y modelado de bases de datos con SQL.
-- Librerías esenciales de ciencia de datos en Python (Pandas, Scikit-Learn).
+- Scikit-learn
+- Anaconda
+- Linux (Ubuntu)
+- FastAPI
+- Spring Boot
+- Docker
 
 ---
 
