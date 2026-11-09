@@ -23,22 +23,14 @@ Estudiante de Ingeniería de Sistemas e Informática, apasionado por la programa
   </a>
 </p>
 
-- Python
-- Java
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- React
-- Spring Boot
-- MySQL
-- Supabase
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
-- Windows
+**Lenguajes**
+
+**Herramientas & Entorno**
+
+**Áreas de enfoque**
+- Desarrollo Backend
+- Bases de Datos Relacionales
+- Fundamentos de Machine Learning
 
 ---
 
@@ -50,12 +42,9 @@ Estudiante de Ingeniería de Sistemas e Informática, apasionado por la programa
   </a>
 </p>
 
-- Scikit-learn
-- Anaconda
-- Linux (Ubuntu)
-- FastAPI
-- Spring Boot
-- Docker
+- Desarrollo de APIs REST.
+- Consulta y modelado de bases de datos con SQL.
+- Librerías esenciales de ciencia de datos en Python (Pandas, Scikit-Learn).
 
 ---
 
