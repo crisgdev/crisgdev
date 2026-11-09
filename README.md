@@ -24,8 +24,14 @@ Estudiante de Ingeniería de Sistemas e Informática, apasionado por la programa
 </p>
 
 **Lenguajes**
+- Python
+- Java
+- SQL
 
 **Herramientas & Entorno**
+- Git
+- GitHub
+- Jupyter Notebook
 
 **Áreas de enfoque**
 - Desarrollo Backend
